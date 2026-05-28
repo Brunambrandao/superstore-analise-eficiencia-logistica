@@ -22,7 +22,7 @@ A investigação estruturou-se em torno de três pilares fundamentais:
 | 📊 **Dashboard Interativo (Looker Studio)** | [Acessar Dashboard](https://datastudio.google.com/reporting/fe3e09e0-c357-4c13-ad85-9f62421c0569) |
 | 💻 **Notebook de Processamento (Google Colab)** | [Acessar Notebook Python](https://colab.research.google.com/drive/1PUMKjo7TtsDaZkb44kYLPQ43JNMf7ZP6?usp=sharing) |
 | 🤖 **Agente de IA Customizado (Gemini)** | [Acessar Custom Gem](https://gemini.google.com/gem/ccf9ac5cca37/9519d2b4f27d99b2) |
-| 📄 **Ficha Técnica Detalhada (PDF)** | [Visualizar na Pasta Documents](./documents/Ficha_Tecnica_SuperStore.pdf) |
+| 📄 **Ficha Técnica Detalhada (PDF)** | [Visualizar na Pasta Documents](Documents) |
 
 ---
 
